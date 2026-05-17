@@ -1,4 +1,4 @@
-mylist = [64, 34, 25, 12, 22, 11, 90, 5]
+mylist = [84, 30, 23, 17, 22, 11, 93, 7] #yang diubah value
 
 n = len(mylist)
 for i in range(n-1):
