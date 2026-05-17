@@ -1,3 +1,7 @@
+#coba hasil ngawur
+
+mylist = [9100, 88, 77]
+
 mylist = [99, 88, 77]
 
 n = len(mylist)
