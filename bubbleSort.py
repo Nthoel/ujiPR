@@ -1,8 +1,4 @@
-#coba hasil ngawur
-
-mylist = [9100, 88, 77]
-
-mylist = [99, 88, 77]
+mylist = [1, 2, 3]
 
 n = len(mylist)
 for i in range(n-1):
